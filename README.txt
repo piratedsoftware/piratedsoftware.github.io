@@ -1,2 +1,0 @@
-Pirated Software
-==================
