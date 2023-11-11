@@ -6,9 +6,143 @@
 </description>
     <link>https://piratedsoftware.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Sep 2023 04:33:52 -0300</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 04:33:52 -0300</lastBuildDate>
+    <pubDate>Sat, 11 Nov 2023 00:03:55 -0300</pubDate>
+    <lastBuildDate>Sat, 11 Nov 2023 00:03:55 -0300</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Counter-Strike 2 - Osiris + Injector 2023 Undetectable</title>
+        <description>&lt;p&gt;Free and open-source game hack for &lt;strong&gt;Counter-Strike 2&lt;/strong&gt;. Compatible with the latest Steam version of the game. Cross-platform - available for &lt;strong&gt;Windows&lt;/strong&gt; and &lt;strong&gt;Linux systems&lt;/strong&gt;.
+This project is maintained in: &lt;a href=&quot;https://github.com/danielkrupinski/Osiris&quot; target=&quot;_blank&quot;&gt;Osiris&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The “&lt;strong&gt;Osiris.dll&lt;/strong&gt;” contained in this download was adapted for this injector, so it is recommended to use it instead of any other compilation you already have.&lt;/p&gt;
+
+&lt;h1 id=&quot;-about-injectorexe&quot;&gt;::&amp;gt; About “injector.exe”&lt;/h1&gt;
+
+&lt;p&gt;As the Osiris project itself recommends, “&lt;strong&gt;injector.exe&lt;/strong&gt;” is a DLL reflective injector.&lt;/p&gt;
+
+&lt;h1 id=&quot;-features&quot;&gt;::&amp;gt; Features&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aimbot&lt;/li&gt;
+  &lt;li&gt;Legit bot&lt;/li&gt;
+  &lt;li&gt;Rage bot&lt;/li&gt;
+  &lt;li&gt;Anti aim&lt;/li&gt;
+  &lt;li&gt;Silent aim&lt;/li&gt;
+  &lt;li&gt;Instant aim&lt;/li&gt;
+  &lt;li&gt;Trggerbot&lt;/li&gt;
+  &lt;li&gt;Trigger delay&lt;/li&gt;
+  &lt;li&gt;Wallhack&lt;/li&gt;
+  &lt;li&gt;Visible chams&lt;/li&gt;
+  &lt;li&gt;Glow esp&lt;/li&gt;
+  &lt;li&gt;Box esp&lt;/li&gt;
+  &lt;li&gt;Anti recoil&lt;/li&gt;
+  &lt;li&gt;Recoil customization&lt;/li&gt;
+  &lt;li&gt;Misc&lt;/li&gt;
+  &lt;li&gt;Bunnyhop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-requirements&quot;&gt;::&amp;gt; Requirements&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Required&lt;/th&gt;
+      &lt;th&gt;Version&lt;/th&gt;
+      &lt;th&gt;How to install&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Microsoft Visual C++ Redistributable&lt;/td&gt;
+      &lt;td&gt;Latest&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://learn.microsoft.com/pt-BR/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;WinRAR&lt;/td&gt;
+      &lt;td&gt;&amp;gt;= 6.10&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.win-rar.com/download.html&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows&lt;/td&gt;
+      &lt;td&gt;10/11 (x64)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;-screenshots&quot;&gt;::&amp;gt; Screenshots&lt;/h2&gt;
+
+&lt;p&gt;In game:&lt;/p&gt;
+
+&lt;div class=&quot;row imager__plugin&quot;&gt;
+            &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/posts/2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_1.jpg&quot; title=&quot;2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_1.jpg&quot; alt=&quot;2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_1.jpg&quot; /&gt;
+          &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Loaded Counter-Strike 2:&lt;/p&gt;
+
+&lt;div class=&quot;row imager__plugin&quot;&gt;
+            &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/posts/2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_2.png&quot; title=&quot;2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_2.png&quot; alt=&quot;2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_2.png&quot; /&gt;
+          &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Injector DLL:&lt;/p&gt;
+
+&lt;div class=&quot;row imager__plugin&quot;&gt;
+            &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/posts/2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_3.png&quot; title=&quot;2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_3.png&quot; alt=&quot;2023-11-10-counter-strike-2-osiris-injector-2023-undetectable_3.png&quot; /&gt;
+          &lt;/div&gt;
+
+&lt;h1 id=&quot;-usage-steps&quot;&gt;::&amp;gt; Usage (steps):&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;1 -&lt;/strong&gt; Download &lt;strong&gt;Osiris + Injector&lt;/strong&gt; from the Download button below, you will be redirected to download from &lt;a href=&quot;https://mega.nz&quot; target=&quot;_blank&quot;&gt;Mega&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p class=&quot;btn_download&quot;&gt;&lt;a href=&quot;https://mega.nz/file/DnQHjAbA#HSkNx46-FTdC6mAuxMbTrLCUPo_7HUEv1Di6h9l_Wyc&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 -&lt;/strong&gt; Using &lt;strong&gt;WinRAR&lt;/strong&gt;, extract &lt;strong&gt;osiris_injector.zip&lt;/strong&gt; to a location of your choice using the password;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Password to unzip: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;osiris&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;3 -&lt;/strong&gt; &lt;strong&gt;IMPORTANT!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The antivirus MUST be DISABLED, regardless of which one is on your machine, because as it is an alteration software, it can be recognized as malware.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;4 -&lt;/strong&gt; Closed your &lt;strong&gt;Counter-Strike 2&lt;/strong&gt;;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 -&lt;/strong&gt; Run “&lt;strong&gt;injector.exe&lt;/strong&gt;”. A console will open and also open &lt;strong&gt;Counter-Strike 2&lt;/strong&gt; automatically (Steam must be open);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 -&lt;/strong&gt; Go back to the “&lt;strong&gt;injector.exe&lt;/strong&gt;” window (Alt+Tab) and type in console: &lt;strong&gt;Osiris.dll&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;IMPORTANT! The “&lt;strong&gt;Osiris.dll&lt;/strong&gt;” file must be in the same directory as “&lt;strong&gt;injector.exe&lt;/strong&gt;”;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;7 -&lt;/strong&gt; After this, “&lt;strong&gt;Osiris.dll&lt;/strong&gt;” will be injected, go back to &lt;strong&gt;Counter-Strike 2&lt;/strong&gt; and explore the “Osiris” menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 -&lt;/strong&gt; Enjoy!&lt;/p&gt;
+
+&lt;!-- https://getmods.net/download-osiris-csgo-hack-undetected/ --&gt;
+</description>
+        <pubDate>Fri, 10 Nov 2023 20:25:27 -0300</pubDate>
+        <link>https://piratedsoftware.github.io/post/counter-strike-2-osiris-injector-2023-undetectable/</link>
+        <guid isPermaLink="true">https://piratedsoftware.github.io/post/counter-strike-2-osiris-injector-2023-undetectable/</guid>
+        
+        <category>osiris</category>
+        
+        <category>cs2</category>
+        
+        <category>injector</category>
+        
+        <category>counter-strike-2</category>
+        
+        
+        <category>cheat</category>
+        
+      </item>
     
       <item>
         <title>PPHud Advanced Cheat CS:GO/CS2 2023 - Undetectable</title>
@@ -311,577 +445,6 @@ but if Windows 10 VL version is installed, in that case you will have to insert 
         
         <category>x64</category>
         
-        
-      </item>
-    
-      <item>
-        <title>CS:GO/CS2 Cheat Novihacks Advanced 2023 - Undetectable</title>
-        <description>&lt;p&gt;&lt;strong&gt;Novihacks Advanced&lt;/strong&gt; is an advanced version with many features and security compared to the Free version. It has all the features of the Free version and extras. This is a completely rewritten forked version of the advanced one.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-         _   _            _ _                _
-        | \ | | _____   _(_) |__   __ _  ___| | _____
-        |  \| |/ _ \ \ / / | &apos;_ \ / _` |/ __| |/ / __|
-        | |\  | (_) \ V /| | | | | (_| | (__|   &amp;lt;\__ \
-        |_| \_|\___/ \_/ |_|_| |_|\__,_|\___|_|\_\___/  Advanced
-
-                The best cheat available for
-     Counter-Strike: Global Offensive and Counter-Strike 2
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Novihacks Advanced&lt;/strong&gt; is more recommended for experienced cheaters, who do &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Legit Hack&lt;/code&gt;, who know the juggling of disguise and the proper setup to not get caught by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Anti-Cheats&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are already several presets in this &lt;strong&gt;Novihacks Advanced&lt;/strong&gt;, but it is always recommended to adjust to find the perfect disguise.&lt;/p&gt;
-
-&lt;p&gt;It’s a great &lt;strong&gt;Counter-Strike: Global Offensive and Counter-Strike 2&lt;/strong&gt; trick. We can say that it is one of the most efficient hacks currently in &lt;strong&gt;Counter-Strike: Global Offensive and Counter-Strike 2&lt;/strong&gt;. It is appreciated and loved for its simplicity and convenience. You can play Hvh or Legit, it’s up to you. This hack is satisfyingly good and will help you in many ways to beat your game.&lt;/p&gt;
-
-&lt;p&gt;Anti-Cheats detection level for &lt;strong&gt;Novihacks Advanced&lt;/strong&gt; is too low. However, if you look at the walls, you might fall into Overwatch, and there’s no trick to solving it.&lt;/p&gt;
-
-&lt;p&gt;Works with all Windows versions and builds.&lt;/p&gt;
-
-&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Required&lt;/th&gt;
-      &lt;th&gt;Version&lt;/th&gt;
-      &lt;th&gt;How to install&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Microsoft Visual C++ Redistributable&lt;/td&gt;
-      &lt;td&gt;Latest&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://learn.microsoft.com/pt-BR/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;WinRAR&lt;/td&gt;
-      &lt;td&gt;&amp;gt;= 6.10&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.win-rar.com/download.html&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
-
-&lt;details&gt;
-  &lt;summary&gt;Click here to see the features&lt;/summary&gt;
-    &lt;p data-sourcepos=&quot;50:3-51:8&quot;&gt;Aimbot/Assists
-    Aimbot&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;53:3-53:19&quot;&gt;~ Group Selcetion&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;55:3-55:20&quot;&gt;~ Weapon Selection&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;57:3-80:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;57:3-58:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;57:5-57:30&quot;&gt;Mode [By FOV, By Distance]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;59:3-60:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;59:5-59:59&quot;&gt;Hitboxes [Multiselect: Head, Neck, Stomach, Arms, Legs]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;61:3-62:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;61:5-61:17&quot;&gt;Enable Aimbot&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;63:3-64:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;63:5-63:24&quot;&gt;Enable Weapon Config&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;65:3-66:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;65:5-65:42&quot;&gt;Activation [Hotkey, Autoaim, Autofire]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;67:3-68:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;67:5-67:23&quot;&gt;Hotkey [Select Key]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;69:3-70:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;69:5-69:30&quot;&gt;No Snap [Slider: Cooldown]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;71:3-72:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;71:5-71:11&quot;&gt;No Lock&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;73:3-74:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;73:5-73:38&quot;&gt;Autowall [Slider: Autowall MinDmg]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;75:3-76:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;75:5-75:14&quot;&gt;Silent Aim&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;77:3-78:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;77:5-77:12&quot;&gt;Show FOV&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;79:3-80:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;79:5-79:17&quot;&gt;Show Aimspots&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;81:3-81:15&quot;&gt;[Slider: FOV]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;83:3-83:18&quot;&gt;[Slider: Smooth]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;85:3-85:10&quot;&gt;Advanced&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;86:3-99:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;86:3-86:19&quot;&gt;
-    &lt;p data-sourcepos=&quot;86:5-86:19&quot;&gt;Group Selcetion&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;87:3-88:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;87:5-87:20&quot;&gt;Weapon Selection&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;89:3-89:24&quot;&gt;
-    &lt;p data-sourcepos=&quot;89:5-89:24&quot;&gt;Enable Weapon Config&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;90:3-90:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;90:5-90:16&quot;&gt;Ignore Flash&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;91:3-91:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;91:5-91:16&quot;&gt;Ignore Smoke&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;92:3-92:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;92:5-92:18&quot;&gt;Ignore Jumping&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;93:3-93:19&quot;&gt;
-    &lt;p data-sourcepos=&quot;93:5-93:19&quot;&gt;Dynamic Aimspot&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;94:3-95:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;94:5-94:18&quot;&gt;Dynamic Smooth&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;96:3-96:13&quot;&gt;
-    &lt;p data-sourcepos=&quot;96:5-96:13&quot;&gt;Backtrack&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;97:3-97:27&quot;&gt;
-    &lt;p data-sourcepos=&quot;97:5-97:27&quot;&gt;Backtrack Chams (ghost)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;98:3-99:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;98:5-98:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;100:3-100:26&quot;&gt;[Slider: Backtrack Time]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;102:3-102:34&quot;&gt;[Slider: First Shot Delay Value]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;104:3-104:23&quot;&gt;[Slider: Curve Scale]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;106:3-106:9&quot;&gt;Trigger&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;108:3-108:19&quot;&gt;~ Group Selcetion&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;110:3-110:20&quot;&gt;~ Weapon Selection&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;112:3-119:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;112:3-112:18&quot;&gt;Enable Trigger&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;113:3-113:24&quot;&gt;Enable Weapon Config&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;114:3-114:29&quot;&gt;Activation [Hotkey, Auto]&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;115:3-115:23&quot;&gt;Hotkey [Select Key]&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;116:3-116:59&quot;&gt;Hitboxes [Multiselect: Head, Neck, Stomach, Arms, Legs]&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;117:3-117:30&quot;&gt;Burst [Slider: Burst Time]&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;118:3-119:0&quot;&gt;Ignore Smoke&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;120:3-120:18&quot;&gt;[Slider: MinDmg]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;122:3-122:21&quot;&gt;[Slider: Hitchance]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;124:3-124:17&quot;&gt;[Slider: Delay]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;126:3-126:16&quot;&gt;Recoil Control&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;128:3-128:19&quot;&gt;~ Group Selcetion&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;130:3-130:20&quot;&gt;~ Weapon Selection&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;132:3-136:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;132:3-132:25&quot;&gt;Enable Recoil Control&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;133:3-133:24&quot;&gt;Enable Weapon Config&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;134:3-134:14&quot;&gt;Standalone&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;135:3-136:0&quot;&gt;Randomize&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;137:3-137:17&quot;&gt;[Slider: Pitch]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;139:3-139:15&quot;&gt;[Slider: Yaw]&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;141:3-141:9&quot;&gt;Visuals&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;143:3-143:8&quot;&gt;Player&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;145:3-167:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;145:3-145:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;145:5-145:14&quot;&gt;Player Esp&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;146:3-146:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;146:5-146:18&quot;&gt;Show Teammates&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;147:3-147:29&quot;&gt;
-    &lt;p data-sourcepos=&quot;147:5-147:29&quot;&gt;Box Type [2D, 2D Rounded]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;148:3-148:12&quot;&gt;
-    &lt;p data-sourcepos=&quot;148:5-148:12&quot;&gt;Skeleton&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;149:3-149:11&quot;&gt;
-    &lt;p data-sourcepos=&quot;149:5-149:11&quot;&gt;Outline&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;150:3-150:13&quot;&gt;
-    &lt;p data-sourcepos=&quot;150:5-150:13&quot;&gt;Snaplines&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;151:3-152:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;151:5-151:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;153:3-153:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;153:5-153:16&quot;&gt;Player Chams&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;154:3-154:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;154:5-154:18&quot;&gt;Show Teammates&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;155:3-155:46&quot;&gt;
-    &lt;p data-sourcepos=&quot;155:5-155:46&quot;&gt;Chams Style [Textured, Flat, Glass, Ghost]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;156:3-156:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;156:5-156:17&quot;&gt;Wallbang Fade&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;157:3-157:19&quot;&gt;
-    &lt;p data-sourcepos=&quot;157:5-157:19&quot;&gt;Based on Health&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;158:3-158:21&quot;&gt;
-    &lt;p data-sourcepos=&quot;158:5-158:21&quot;&gt;Dead Player Chams&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;159:3-160:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;159:5-159:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;161:3-161:15&quot;&gt;
-    &lt;p data-sourcepos=&quot;161:5-161:15&quot;&gt;Player Glow&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;162:3-162:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;162:5-162:18&quot;&gt;Show Teammates&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;163:3-163:41&quot;&gt;
-    &lt;p data-sourcepos=&quot;163:5-163:41&quot;&gt;Glow Style [Default, Corver, Outline]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;164:3-164:11&quot;&gt;
-    &lt;p data-sourcepos=&quot;164:5-164:11&quot;&gt;D-Light&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;165:3-165:19&quot;&gt;
-    &lt;p data-sourcepos=&quot;165:5-165:19&quot;&gt;Based on Health&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;166:3-167:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;166:5-166:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;168:3-168:29&quot;&gt;Interactive Menu (Elements)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;169:3-174:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;169:3-169:8&quot;&gt;Ammo&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;170:3-170:9&quot;&gt;Armor&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;171:3-171:10&quot;&gt;Health&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;172:3-172:8&quot;&gt;Fill&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;173:3-174:0&quot;&gt;Box&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;175:3-175:33&quot;&gt;Interactive Menu (Textual Info)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;176:3-187:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;176:3-176:10&quot;&gt;Weapon&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;177:3-177:10&quot;&gt;Health&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;178:3-178:15&quot;&gt;Weapon Icon&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;179:3-179:8&quot;&gt;Ammo&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;180:3-180:12&quot;&gt;Distance&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;181:3-181:10&quot;&gt;Scoped&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;182:3-182:8&quot;&gt;Name&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;183:3-183:12&quot;&gt;Defusing&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;184:3-184:9&quot;&gt;Armor&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;185:3-185:11&quot;&gt;Flashed&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;186:3-187:0&quot;&gt;Defuser&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;188:3-188:8&quot;&gt;Weapon&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;189:3-202:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;189:3-189:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;189:5-189:14&quot;&gt;Weapon Esp&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;190:3-190:29&quot;&gt;
-    &lt;p data-sourcepos=&quot;190:5-190:29&quot;&gt;Box Type [2D, 2D Rounded]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;191:3-192:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;191:5-191:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;193:3-193:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;193:5-193:16&quot;&gt;Weapon Chams&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;194:3-194:32&quot;&gt;
-    &lt;p data-sourcepos=&quot;194:5-194:32&quot;&gt;Chams Style [Textured, Flat]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;195:3-195:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;195:5-195:17&quot;&gt;Based on Ammo&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;196:3-197:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;196:5-196:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;198:3-198:15&quot;&gt;
-    &lt;p data-sourcepos=&quot;198:5-198:15&quot;&gt;Weapon Glow&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;199:3-199:40&quot;&gt;
-    &lt;p data-sourcepos=&quot;199:5-199:40&quot;&gt;Glow Style [Default, Cover, Outline]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;200:3-200:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;200:5-200:17&quot;&gt;Based on Ammo&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;201:3-202:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;201:5-201:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;203:3-203:29&quot;&gt;Interactive Menu (Elements)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;204:3-207:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;204:3-204:8&quot;&gt;Ammo&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;205:3-205:7&quot;&gt;Box&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;206:3-207:0&quot;&gt;Fill&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;208:3-208:33&quot;&gt;Interactive Menu (Textual Info)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;209:3-213:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;209:3-209:12&quot;&gt;Distance&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;210:3-210:8&quot;&gt;Icon&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;211:3-211:8&quot;&gt;Name&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;212:3-213:0&quot;&gt;Ammo&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;214:3-214:7&quot;&gt;World&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;215:3-246:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;215:3-215:15&quot;&gt;
-    &lt;p data-sourcepos=&quot;215:5-215:15&quot;&gt;Grenade Esp&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;216:3-216:29&quot;&gt;
-    &lt;p data-sourcepos=&quot;216:5-216:29&quot;&gt;Box Type [2D, 2D Rounded]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;217:3-218:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;217:5-217:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;219:3-219:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;219:5-219:17&quot;&gt;Grenade Chams&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;220:3-220:46&quot;&gt;
-    &lt;p data-sourcepos=&quot;220:5-220:46&quot;&gt;Chams Style [Textured, Flat, Glass, Ghost]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;221:3-222:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;221:5-221:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;223:3-223:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;223:5-223:16&quot;&gt;Grenade Glow&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;224:3-224:40&quot;&gt;
-    &lt;p data-sourcepos=&quot;224:5-224:40&quot;&gt;Glow Style [Default, Cover, Outline]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;225:3-226:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;225:5-225:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;227:3-227:31&quot;&gt;
-    &lt;p data-sourcepos=&quot;227:5-227:31&quot;&gt;Flashbang [Default, Remove]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;228:3-228:46&quot;&gt;
-    &lt;p data-sourcepos=&quot;228:5-228:46&quot;&gt;Smoke Grenade [Default, Remove, Wireframe]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;229:3-229:32&quot;&gt;
-    &lt;p data-sourcepos=&quot;229:5-229:32&quot;&gt;Molotov [Default, Wireframe]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;230:3-230:35&quot;&gt;
-    &lt;p data-sourcepos=&quot;230:5-230:35&quot;&gt;He Grenade [Default, Wireframe]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;231:3-232:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;231:5-231:20&quot;&gt;Remove Particles&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;233:3-233:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;233:5-233:14&quot;&gt;Night Mode&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;234:3-234:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;234:5-234:14&quot;&gt;Asus Props&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;235:3-235:15&quot;&gt;
-    &lt;p data-sourcepos=&quot;235:5-235:15&quot;&gt;Color Walls&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;236:3-237:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;236:5-236:13&quot;&gt;Color Sky&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;238:3-238:13&quot;&gt;
-    &lt;p data-sourcepos=&quot;238:5-238:13&quot;&gt;Bomb Info&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;239:3-239:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;239:5-239:17&quot;&gt;Defuse Radius&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;240:3-241:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;240:5-240:43&quot;&gt;Enemy Steps [None, Circle, Text, Beams]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;242:3-242:15&quot;&gt;
-    &lt;p data-sourcepos=&quot;242:5-242:15&quot;&gt;Chicken Box&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;243:3-243:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;243:5-243:17&quot;&gt;Chicken Chams&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;244:3-244:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;244:5-244:16&quot;&gt;Chicken Glow&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;245:3-246:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;245:5-245:16&quot;&gt;Chicken Name&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;247:3-247:29&quot;&gt;Interactive Menu (Elements)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;248:3-250:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;248:3-248:7&quot;&gt;Box&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;249:3-250:0&quot;&gt;Fill&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;251:3-251:33&quot;&gt;Interactive Menu (Textual Info)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;252:3-256:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;252:3-252:8&quot;&gt;Icon&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;253:3-253:12&quot;&gt;Distance&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;254:3-254:8&quot;&gt;Name&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;255:3-256:0&quot;&gt;Timer&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;257:3-257:12&quot;&gt;DangerZone&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;258:3-278:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;258:3-258:12&quot;&gt;
-    &lt;p data-sourcepos=&quot;258:5-258:12&quot;&gt;Loot Esp&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;259:3-259:29&quot;&gt;
-    &lt;p data-sourcepos=&quot;259:5-259:29&quot;&gt;Box Type [2D, 2D Rounded]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;260:3-261:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;260:5-260:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;262:3-262:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;262:5-262:14&quot;&gt;Loot Chams&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;263:3-263:46&quot;&gt;
-    &lt;p data-sourcepos=&quot;263:5-263:46&quot;&gt;Chams Style [Textured, Flat, Glass, Ghost]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;264:3-265:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;264:5-264:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;266:3-266:13&quot;&gt;
-    &lt;p data-sourcepos=&quot;266:5-266:13&quot;&gt;Loot Glow&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;267:3-267:40&quot;&gt;
-    &lt;p data-sourcepos=&quot;267:5-267:40&quot;&gt;Glow Style [Default, Cover, Outline]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;268:3-269:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;268:5-268:16&quot;&gt;Visible Only&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;270:3-270:12&quot;&gt;
-    &lt;p data-sourcepos=&quot;270:5-270:12&quot;&gt;Ammo Box&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;271:3-271:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;271:5-271:14&quot;&gt;Loot Crate&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;272:3-272:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;272:5-272:16&quot;&gt;Radar Jammer&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;273:3-273:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;273:5-273:18&quot;&gt;Weapon Upgrade&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;274:3-274:9&quot;&gt;
-    &lt;p data-sourcepos=&quot;274:5-274:9&quot;&gt;Drone&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;275:3-275:13&quot;&gt;
-    &lt;p data-sourcepos=&quot;275:5-275:13&quot;&gt;Drone Gun&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;276:3-276:14&quot;&gt;
-    &lt;p data-sourcepos=&quot;276:5-276:14&quot;&gt;Healthshot&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;277:3-278:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;277:5-277:9&quot;&gt;Money&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;279:3-279:29&quot;&gt;Interactive Menu (Elements)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;280:3-282:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;280:3-280:7&quot;&gt;Box&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;281:3-282:0&quot;&gt;Fill&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;283:3-283:33&quot;&gt;Interactive Menu (Textual Info)&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;284:3-286:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;284:3-284:8&quot;&gt;Name&lt;/li&gt;
-    &lt;li data-sourcepos=&quot;285:3-286:0&quot;&gt;Distance&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;287:3-287:7&quot;&gt;Other&lt;/p&gt;
-    &lt;ul data-sourcepos=&quot;288:3-315:0&quot;&gt;
-    &lt;li data-sourcepos=&quot;288:3-288:20&quot;&gt;
-    &lt;p data-sourcepos=&quot;288:5-288:20&quot;&gt;Spread Crosshair&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;289:3-289:20&quot;&gt;
-    &lt;p data-sourcepos=&quot;289:5-289:20&quot;&gt;Recoil Crosshair&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;290:3-290:21&quot;&gt;
-    &lt;p data-sourcepos=&quot;290:5-290:21&quot;&gt;Noscope Crosshair&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;291:3-292:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;291:5-291:22&quot;&gt;Wallbang Crosshair&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;293:3-293:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;293:5-293:16&quot;&gt;Remove Scope&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;294:3-294:20&quot;&gt;
-    &lt;p data-sourcepos=&quot;294:5-294:20&quot;&gt;Remove Aim Punch&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;295:3-295:16&quot;&gt;
-    &lt;p data-sourcepos=&quot;295:5-295:16&quot;&gt;Reveal Ranks&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;296:3-297:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;296:5-296:16&quot;&gt;Reveal Money&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;298:3-298:30&quot;&gt;
-    &lt;p data-sourcepos=&quot;298:5-298:30&quot;&gt;Camera FOV [Slider: Value]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;299:3-299:33&quot;&gt;
-    &lt;p data-sourcepos=&quot;299:5-299:33&quot;&gt;Viewmodel FOV [Slider: Value]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;300:3-301:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;300:5-300:22&quot;&gt;Grenade Prediction&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;302:3-302:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;302:5-302:17&quot;&gt;Flashed Timer&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;303:3-303:17&quot;&gt;
-    &lt;p data-sourcepos=&quot;303:5-303:17&quot;&gt;Offscreen ESP&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;304:3-304:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;304:5-304:18&quot;&gt;Headshot Level&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;305:3-306:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;305:5-305:33&quot;&gt;Hitmarker [Silder: Fade Time]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;307:3-307:18&quot;&gt;
-    &lt;p data-sourcepos=&quot;307:5-307:18&quot;&gt;Internal Radar&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;308:3-308:36&quot;&gt;
-    &lt;p data-sourcepos=&quot;308:5-308:36&quot;&gt;Damage Indicator [Slider: Speed]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;309:3-310:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;309:5-309:53&quot;&gt;Bullet Beams [Multiselect: Local, Enemies, Mates]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;311:3-311:34&quot;&gt;
-    &lt;p data-sourcepos=&quot;311:5-311:34&quot;&gt;Hands [Default, Remove, Chams]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;312:3-312:73&quot;&gt;
-    &lt;p data-sourcepos=&quot;312:5-312:73&quot;&gt;(If Chams) Hand Chams Style [Textured, Flat, Glass, Wireframe, Ghost]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;313:3-313:35&quot;&gt;
-    &lt;p data-sourcepos=&quot;313:5-313:35&quot;&gt;Weapon [Default, Remove, Chams]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li data-sourcepos=&quot;314:3-315:0&quot;&gt;
-    &lt;p data-sourcepos=&quot;314:5-314:75&quot;&gt;(If Chams) Weapon Chams Style [Textured, Flat, Glass, Wireframe, Ghost]&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p data-sourcepos=&quot;316:3-316:8&quot;&gt;Colors&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;318:3-318:13&quot;&gt;~ Search In&lt;/p&gt;
-    &lt;p data-sourcepos=&quot;320:3-320:18&quot;&gt;~ Textual Search&lt;/p&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Note: You may need to disable your antivirus if it is detected as malware as it is software that changes game information and can be recognized as malware.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;1 -&lt;/strong&gt; Download &lt;strong&gt;Novihacks Advanced&lt;/strong&gt; from the Download button below, you will be redirected to download from &lt;a href=&quot;https://mega.nz&quot; target=&quot;_blank&quot;&gt;Mega&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p class=&quot;btn_download&quot;&gt;&lt;a href=&quot;https://mega.nz/file/3qQW0ZJQ#MGVRAKDJFTlCPgRJEubnLflL95qOsWTetCVlm-zZJBs&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2 -&lt;/strong&gt; Using WinRAR, extract &lt;strong&gt;novihacks-advanced.zip&lt;/strong&gt; to a location of your choice using the password;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Password to unzip: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;novihacks&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;3 -&lt;/strong&gt; Close your “CS:GO/CS2”;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4 -&lt;/strong&gt; Run “&lt;strong&gt;setup.exe&lt;/strong&gt;” and wait for the window to appear;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5 -&lt;/strong&gt; Click in button “&lt;strong&gt;Launch Novihacks&lt;/strong&gt;”;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6 -&lt;/strong&gt; The &lt;strong&gt;Novihacks Advanced&lt;/strong&gt; window will appear in game. Configure &lt;strong&gt;Novihacks Advanced&lt;/strong&gt; to your liking;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;7 -&lt;/strong&gt; Enjoy!&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Sep 2023 01:26:03 -0300</pubDate>
-        <link>https://piratedsoftware.github.io/post/csgo-cs2-cheat-novihacks-advanced-2023-undetectable/</link>
-        <guid isPermaLink="true">https://piratedsoftware.github.io/post/csgo-cs2-cheat-novihacks-advanced-2023-undetectable/</guid>
-        
-        <category>csgo</category>
-        
-        <category>cs2</category>
-        
-        <category>cheat</category>
-        
-        <category>novihacks</category>
-        
-        <category>advanced</category>
-        
-        
-        <category>cheat</category>
         
       </item>
     
