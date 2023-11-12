@@ -6,12 +6,12 @@
 </description>
     <link>https://piratedsoftware.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Nov 2023 01:32:08 -0300</pubDate>
-    <lastBuildDate>Sun, 12 Nov 2023 01:32:08 -0300</lastBuildDate>
+    <pubDate>Sun, 12 Nov 2023 01:36:37 -0300</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2023 01:36:37 -0300</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Counter-Strike 2 - Osiris + Injector 2023 Undetectable</title>
+        <title>Counter-Strike 2 - Osiris + Reflective Injector 2023 Undetectable</title>
         <description>&lt;p&gt;Free and open-source game hack for &lt;strong&gt;Counter-Strike 2&lt;/strong&gt;. Compatible with the latest Steam version of the game. Cross-platform - available for &lt;strong&gt;Windows&lt;/strong&gt; and &lt;strong&gt;Linux systems&lt;/strong&gt;.
 This project is maintained in: &lt;a href=&quot;https://github.com/danielkrupinski/Osiris&quot; target=&quot;_blank&quot;&gt;Osiris&lt;/a&gt;.&lt;/p&gt;
 
@@ -128,8 +128,8 @@ This project is maintained in: &lt;a href=&quot;https://github.com/danielkrupins
 &lt;!-- https://getmods.net/download-osiris-csgo-hack-undetected/ --&gt;
 </description>
         <pubDate>Fri, 10 Nov 2023 20:25:27 -0300</pubDate>
-        <link>https://piratedsoftware.github.io/post/counter-strike-2-osiris-injector-2023-undetectable/</link>
-        <guid isPermaLink="true">https://piratedsoftware.github.io/post/counter-strike-2-osiris-injector-2023-undetectable/</guid>
+        <link>https://piratedsoftware.github.io/post/counter-strike-2-osiris-reflective-injector-2023-undetectable/</link>
+        <guid isPermaLink="true">https://piratedsoftware.github.io/post/counter-strike-2-osiris-reflective-injector-2023-undetectable/</guid>
         
         <category>osiris</category>
         
@@ -138,6 +138,8 @@ This project is maintained in: &lt;a href=&quot;https://github.com/danielkrupins
         <category>injector</category>
         
         <category>counter-strike-2</category>
+        
+        <category>reflective</category>
         
         
         <category>cheat</category>
