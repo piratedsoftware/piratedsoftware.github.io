@@ -6,8 +6,8 @@
 </description>
     <link>https://piratedsoftware.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Nov 2023 21:03:58 -0300</pubDate>
-    <lastBuildDate>Sun, 12 Nov 2023 21:03:58 -0300</lastBuildDate>
+    <pubDate>Sun, 12 Nov 2023 21:06:08 -0300</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2023 21:06:08 -0300</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -456,7 +456,11 @@ A dedicated workspace lets you select the exact pixels to use for fills, and Ado
 
 &lt;p&gt;&lt;strong&gt;3 -&lt;/strong&gt; Close program completely (even from system tray)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;4 -&lt;/strong&gt; &lt;strong&gt;Important:&lt;/strong&gt; Disable your antivirus so nothing interrupts activation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4 -&lt;/strong&gt; &lt;strong&gt;IMPORTANT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Disable your antivirus so nothing interrupts activation&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;5 -&lt;/strong&gt; In the “&lt;strong&gt;Patch&lt;/strong&gt;” folder, right click on “&lt;strong&gt;AdobeGenP.exe&lt;/strong&gt;” in Release folder and click “&lt;strong&gt;Run as administrator&lt;/strong&gt;”&lt;/p&gt;
 &lt;blockquote&gt;
