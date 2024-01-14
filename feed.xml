@@ -6,8 +6,8 @@
 </description>
     <link>https://piratedsoftware.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jan 2024 14:45:09 -0300</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2024 14:45:09 -0300</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2024 15:13:24 -0300</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2024 15:13:24 -0300</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -276,6 +276,11 @@ but if Windows 10 VL version is installed, in that case you will have to insert 
       &lt;td&gt;Windows&lt;/td&gt;
       &lt;td&gt;10 (x64)&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;https://www.microsoft.com/pt-br/software-download/windows10&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Microsoft Visual C++ Redistributable&lt;/td&gt;
+      &lt;td&gt;Latest&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://learn.microsoft.com/pt-BR/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;WinRAR&lt;/td&gt;
